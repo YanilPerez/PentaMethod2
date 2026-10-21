@@ -1,0 +1,4 @@
+<resources>
+    <!-- Nombre visible bajo el ícono y en "Aplicaciones recientes". -->
+    <string name="app_name">Métodos Numéricos</string>
+</resources>
